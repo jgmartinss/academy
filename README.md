@@ -7,4 +7,4 @@
 * Tutoriais
 * Artigos
     * Django
-        * [Criando um campo de busca com filtros](http://breakdance.io) 
+        * [Criando um campo de busca com filtros](https://github.com/jgmartinss/academy/blob/master/tutorials/django/t01/criando_campo_de_busca_com_filtros.md) 
