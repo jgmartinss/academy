@@ -1,2 +1,9 @@
-# academy
-Repositório para publicar artigos/tutoriais sobre tecnologias que aprecio!
+# Academy
+
+> Repositório para publicar artigos/tutoriais sobre tecnologias que aprecio!
+
+## Tópicos
+
+* Tutoriais
+* Artigos
+ 
