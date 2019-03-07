@@ -106,7 +106,7 @@ $ python manage.py migrate
 
 ## Configurando o Admin
 
-Agora precisamos agora configurar nosso admin, no arquivo posts/admin.py
+Agora precisamos configurar nosso admin, no arquivo posts/admin.py
 Como o código abaixo:
 
 ```py
@@ -268,7 +268,7 @@ urlpatterns = [
 ]
 ```
 
-Agora em myproject/urls.py precisamos chamar as urls criadas, para que o django consiga identificalas:
+Agora em myproject/urls.py precisamos chamar as urls criadas, para que o django consiga identificá-las:
 
 ```py
 from django.contrib import admin
